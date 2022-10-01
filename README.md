@@ -14,7 +14,7 @@ A full list of tasks that NIPKaart has set up can be found [here][blog].
 <!-- LINKS -->
 [hacktoberfest]: https://hacktoberfest.com
 [nipkaart]: https://nipkaart.nl
-[blog]: https://student-techlife.com/2022/09/27/hacktoberfest-2022
+[blog]: https://student-techlife.com/2022/10/02/hacktoberfest-2022
 
 <!-- Badges -->
 [contributors-shield]: https://img.shields.io/github/contributors/nipkaart/open-data
