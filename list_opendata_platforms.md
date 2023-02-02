@@ -7,3 +7,4 @@ You can add data to this list by editing this file and opening a pull request, t
 | Country | City | URL |
 | :------ | :--- | :-- |
 | Netherlands | Eindhoven | https://data.eindhoven.nl/explore/ |
+| Netherlands | Hilversum | https://open-hilversum.hub.arcgis.com/ |
